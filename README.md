@@ -18,20 +18,64 @@
 
 <br />
 
-### Languages and Tools:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-
-
-<br />
-<br />
-
+<h2 align='center'><i>💻⚙ Languages and Tools ⚙💻</i></h2>
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://d3mds3ychln71.cloudfront.net/img/flutter-logo@3x.png" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="60">
+    </td>
+    
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ubuntu_and_Ubuntu_Server_Icon.png" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60">
+    </td>
+    
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://www.php.net/images/logos/new-php-logo.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power-bi-logo.png" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width="60">
+    </td>
+    
+</tr>
+</table>
 
 ---
 
