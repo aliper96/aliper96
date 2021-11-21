@@ -1,7 +1,7 @@
 ### Hi there, I'm Ali  👋 
 
 
-## I'm a student, Developer, and translater!!
+## I'm a student, Researcher, Developer, and translater!!
 
 - 🔭 I just started in artifitial inteligence
 - 🌱 I’m currently learning everything 🤣
