@@ -1,4 +1,4 @@
-### Hi there, I'm Ali - aka [aliper96][website] 👋 
+### Hi there, I'm Ali  👋 
 
 
 ## I'm a student, Developer, and translater!!
