@@ -29,13 +29,13 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://d3mds3ychln71.cloudfront.net/img/flutter-logo@3x.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="60">
     </td>
     
 </tr>
@@ -59,7 +59,7 @@
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="60">
     </td>
 <td align='center' width="190">
         <img src="https://www.php.net/images/logos/new-php-logo.svg" width="60">
