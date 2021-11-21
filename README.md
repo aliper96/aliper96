@@ -71,7 +71,7 @@
         <img src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power-bi-logo.png" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="60">
     </td>
     
 </tr>
