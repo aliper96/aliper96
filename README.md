@@ -1,7 +1,7 @@
 ### Hi there, I'm Ali  👋 
 
 
-## I'm a Student, Researcher, Developer, and Translater!!
+## I'm a PhD Student in Generative AI, Researcher, Developer, and Translater!!
 
 - 🔭 I just started in artifitial inteligence 2019
 
