@@ -3,12 +3,7 @@
 
 ## I'm a Student, Researcher, Developer, and Translater!!
 
-- 🔭 I just started in artifitial inteligence
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I lave watching and playing futball
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 🥅 2021 Main life Goal: Creat something new that can be usefull
+- 🔭 I just started in artifitial inteligence 2019
 
 
 ### Connect with me:
